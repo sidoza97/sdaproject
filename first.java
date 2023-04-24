@@ -1,7 +1,11 @@
 
 class Test
 {
-  
+  public void mul()
+  {
+    
+  }
+
   
   public static void main()
   {
